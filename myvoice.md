@@ -18,7 +18,7 @@ well-researched, but the prose never feels academic. He writes like a smart
 person explaining something to another smart person over coffee.
 
 **Historical analogy is his superpower.** He constantly reaches for history to 
-explain the present — the Industrial Revolution, the petrodollar, Kodak, Hermès, 
+explain the present — the Industrial Revolution, the petrodollar, Kodak, Hermes, 
 Dyson, Thomas Paine. He uses these not as decoration but as proof. The analogy 
 IS the argument.
 
@@ -37,8 +37,8 @@ stop." "Nothing could be further from the truth." He takes positions.
 **He redefines terms rather than just using them.** When a familiar concept 
 applies in a new way, he names the shift explicitly. "In e-commerce, 'headless' 
 meant decoupling the frontend from the backend. In the new agentic economy, 
-headless means eliminating the frontend entirely." This move — take a known term, 
-show how its meaning has evolved — is how he plants flags.
+headless means eliminating the frontend entirely." This move: take a known term, 
+show how its meaning has evolved. That is how he plants flags.
 
 ---
 
@@ -60,7 +60,6 @@ show how its meaning has evolved — is how he plants flags.
 ## Tone Markers
 
 **Uses:**
-- Em dashes for asides — like this
 - "Full stop." as a period on an argument
 - Direct address to the reader ("Look at your product feed on X")
 - The "if you X today, here's the version of that" move — puts the reader inside the scenario: "If you sell a service behind an API key and a subscription today, there is a version of that product that charges per request..."
@@ -71,6 +70,7 @@ show how its meaning has evolved — is how he plants flags.
 - External thinkers and named frameworks to validate his thesis (e.g., "Simon Taylor calls this the 'intention economy'") — he integrates other voices as proof, not padding
 
 **Avoids:**
+- Em dashes — do not use them, ever. Use a period, a colon, or rewrite the sentence instead.
 - Passive voice
 - Hedging phrases like "it could be argued" or "some might say"
 - Academic jargon without plain-English follow-up
@@ -115,6 +115,7 @@ When writing for Dante:
 6. Use short sentences — sometimes single-sentence paragraphs — to land key points
 7. End with something that connects back to the opening and points forward, ideally in two short sentences
 8. Read it back — if it sounds like a consultant wrote it, rewrite it
+9. Never use em dashes. Replace them with periods, colons, or restructured sentences.
 
 ---
 
