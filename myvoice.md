@@ -114,6 +114,7 @@ obvious!'" Then he shows why it isn't obvious after all.
 - Moralizing or lecturing tone
 - Clickbait-style openings
 - Unnecessary adjectives
+- "It's not just X, it's Y" constructions — do not use this framing. Make the claim directly instead.
 
 ---
 
