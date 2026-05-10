@@ -291,3 +291,62 @@ The same acceleration applies in the other direction. Quitters now accumulate DN
 So, what do you do when you have the power of a god to create anything you imagine?
 
 The question was never whether you have the power. Your favorite AI will give you the technical powers of a god. It will build faster and better than you could alone. But the decision to keep going, to push through the moment when every rational signal says stop - that is a truly human power. 
+
+### Essay: Nonprofits Need Stablecoins
+
+My mom has run a small international nonprofit for the last 15 years. She pays 4-6% on every transaction, and it takes her an average of 3-5 days to get money from her bank in the U.S to the project manager on the ground in a foreign country. 
+
+For larger non-profit organizations, the problem is much worse. The United Nations flies pallets of cash across borders to deliver humanitarian aid. So does the Red Cross. Major international NGOs run armed convoys of physical money because the legacy banking system either takes a week, charges massive fees, or refuses to process the transfer entirely.
+I've been thinking about why stablecoins haven't taken off in the nonprofit world, and have realized that it's one of the most underserved opportunities in fintech. The organizations that most need better financial rails are the ones nobody is building for.
+
+Nonprofits Need Stablecoins
+
+Nonprofits don't choose to operate internationally for growth or market opportunity. They operate where the need is greatest, and the places with the greatest need are almost always the places with the weakest financial infrastructure. Fragile economies, underdeveloped banking systems, currencies in freefall. The countries that need the most help are also the hardest to move money into.
+
+This means cross-border payments aren't an edge case for international nonprofits. They are the core operation. Every dollar raised in the US needs to get out, to a country office in Kigali, a partner organization in Dhaka, a cash transfer program in rural Guatemala. The entire model depends on the ability to move money reliably, quickly, and cheaply across borders that were not designed to accommodate these flows.
+
+A few fintechs have noticed this and started building for it. Holdings and Crowded are the most notable. They understand the nonprofit compliance layer and have built products that nonprofits can actually use. But underneath, they're still running on the same fiat rails everyone else uses. Transfers still take 3 to 5 days. Costs still run around 5 percent. It's just ugly lipstick on an ugly pig.
+
+International banking infrastructure was built for standard business-to-business flows. Nonprofit flows do not always fall in that bucket. They often need the flexibility to pay individuals directly, plug into local real-time payment networks, and reach people in places where a traditional bank account doesn't exist. 
+
+A community health worker in rural Kenya, a cash transfer beneficiary in Bangladesh, or a local contractor in Guatemala City — none of them fit neatly into the payment flows that international banking was designed for. 
+
+Stablecoins do. A wallet is a wallet, whether it belongs to a business or a person. Companies like @fonbnk1 are already building the bridges between stablecoin rails and local mobile money networks, making the last mile work in ways that fiat never could.
+
+In the most extreme cases, this stops being about efficiency and starts being about whether aid can move at all. In South Sudan, formal banking rails are functionally nonexistent in large parts of the country. A black market for stablecoins already operates there. The question that matters isn't whether money is moving through official channels. It's whether it translates into impact.
+
+There is also a more insidious version of this problem. Sometimes the rails exist, but the government controlling them becomes the threat. Uganda's Protection of Sovereignty Bill 2026, tabled in April of this year, would criminalize receiving foreign funding beyond a government-approved threshold, require NGOs to register as foreign agents, and carry prison sentences of up to 20 years. Uganda's NGO sector employs around 700,000 people, more than the country's entire civil service. The organizations being targeted are the ones keeping basic services running. When the state becomes the obstacle, you need financial rails that the state can't easily control or seize.
+
+Stablecoins were built for exactly this. Indifferent to whether the destination country has a functional correspondent banking relationship or a government that has decided foreign aid is a threat. 
+
+This stablecoin use case has already proven its efficacy. UNHCR has been disbursing USDC to displaced people in Ukraine since late 2022. The IRC has run stablecoin cash transfer pilots for refugees. GiveDirectly has experimented with direct stablecoin payments in East Africa. In 2022, the treasurer of the United Nations publicly called for stablecoin rails because the existing banking system was too slow to support the early Ukraine response. This is not an edict for a completely novel stablecoin use case, simply for better and more accessible tooling. 
+
+So What Does a Nonprofit Stablecoin Neobank Actually Look Like?
+
+There are roughly 1.8 million 501(c)(3) organizations in the US. Around 10,000 of them operate internationally with budgets above $1 million, moving tens of billions of dollars across borders every year. That's a big market, and right now most of it is being served by fiat rails that haven't meaningfully improved in decades. The existing players in the stablecoin neobank space are all working backwards from a business banking model. This product needs to start somewhere different.
+
+Here are a few core features that I believe this product should have:
+
+Invisible stablecoin movement. Send money across borders in minutes for cents. The user experience is a wire transfer or a Venmo payment. The infrastructure underneath is not.
+
+Local RTP network integration. Direct integrations with M-Pesa, bKash, GCash, Pix, UPI, and other real-time payment networks where recipients actually live. Funds arrive in the format that works for them, in their country, without an intermediary bank trying to figure it out on the other end.
+
+Clean audit trails and donor transparency. Every transaction is tagged, timestamped, and traceable. Auditors get a read-only portal that turns what is usually a months-long process into a few weeks. Major institutional funders increasingly want real-time visibility into where their money went, and on-chain settlement makes that native rather than something bolted on after the fact.
+
+Multi-signer governance. Nonprofit boards rotate constantly. The product needs configurable approval flows where, under a certain threshold, it auto-approves, and above it requires two signatories. Adding or removing an authorized signer should take minutes, not weeks of paperwork.
+
+Spend controls for field staff. Virtual cards per program, per country, per staff member. Category limits, geographic limits, per-card budgets, and mandatory receipt capture. The monthly expense reconciliation nightmare that finance teams at international NGOs know intimately becomes a solved problem.
+
+The nonprofit sector is not the sexiest place to build a stablecoin company. Sales cycles are long, customers are conservative, and the compliance requirements are real. But the timing has never been better.
+
+Stablecoin adoption is accelerating in exactly the places nonprofits operate. Merchants across East Africa, Southeast Asia, and Latin America are increasingly accepting stablecoins directly. The connections between stablecoin rails and local banking infrastructure are multiplying fast, with more on and off ramps appearing in developing markets every quarter. The last-mile problem that made stablecoin payouts impractical a few years ago is getting solved in real time.
+
+The regulatory picture has also cleared significantly. The GENIUS Act in the US and MiCA in Europe have given nonprofits and their legal teams a real framework to point to. For years, the blocker for many organizations wasn't the technology, it was the compliance question of whether they were even allowed to use stablecoins in their financial flows. That question now has an answer on both sides of the Atlantic, which removes one of the last remaining excuses for not adopting them.
+
+I want to leave you all with this: 
+
+Most companies adopt stablecoins to improve margins. For nonprofits, every basis point and settlement time decrease translates to real-world impact. A $50 million NGO moving $30 million across borders annually loses $1.5 million a year to friction. For nonprofits, there is a direct correlation between the efficiency of their financial rails and the number of people they are able to help. 
+
+So, the builders who decide to tackle this problem will not just end up creating a massively financially successful company, but will also be able to directly link their work to life-changing programs for millions around the world. 
+
+If you know someone building this, please send them my way.
