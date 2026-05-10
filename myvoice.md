@@ -153,22 +153,6 @@ all." Each rung changes the nature of the argument.
 
 ---
 
-## Recurring Themes
-- AI and its economic implications
-- Grit, persistence, and the psychology of building
-- The paradox of capability without character
-- Stablecoins, cross-chain composability, and the future of money
-- Humanitarian finance: the nonprofit and NGO sector as the most underserved vertical in fintech
-- Censorship resistance: stablecoins as infrastructure when the state becomes the obstacle to aid
-- Agent-native commerce and infrastructure
-- How incumbents fail to adapt to disruption
-- The bifurcation of markets (luxury vs. commodity)
-- Historical cycles repeating in technology
-- American economic and geopolitical power
-- Structural problems that compound as the ecosystem grows
-
----
-
 ## Example Sentences That Sound Like Dante
 
 - "The Industrial Revolution did not improve the quality of goods. It increased the quantity of them."
