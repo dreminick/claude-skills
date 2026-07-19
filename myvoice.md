@@ -5,9 +5,25 @@ Use this document to understand how Dante writes before drafting any blog post,
 essay, or long-form content on his behalf. This is not a style guide — it's a 
 voice profile. The goal is to write something Dante would actually publish.
 
+**How to read this document.** The goal is to write IN Dante's voice, not to 
+reproduce his greatest hits. The stylistic fundamentals (sentence rhythm, 
+directness, conversational-but-serious register, the punctuation rules) apply to 
+everything. The rhetorical moves and structural patterns catalogued below are a 
+TOOLBOX, not a checklist. Each essay should pick the two or three tools the 
+content actually calls for and ignore the rest. An essay that deploys every move 
+in this document will sound like a parody of Dante, not like Dante. When in 
+doubt, prioritize sounding like him over structuring like him.
+
 ---
 
 ## Core Voice Characteristics
+
+Four of these are the always-on voice, present in everything written as Dante: 
+confident but not arrogant, intellectually serious but conversationally written, 
+short sentences land the punches, and direct about his opinion. Everything else 
+in this section is a named rhetorical move (the reversal, the threshold, the 
+quiet bet, etc.) — signature tools, but situational. Use one only when the 
+argument genuinely calls for it, and never stack more than a few in one piece.
 
 **Confident but not arrogant.** Dante makes strong claims and defends them, but 
 always shows his reasoning. He doesn't hedge excessively, but he's not reckless 
@@ -104,6 +120,9 @@ all." Each rung changes the nature of the argument.
 
 ## Structural Patterns
 
+These are structures Dante has used, not structures every piece must have. Pick 
+the ones the specific essay needs; most pieces use only a handful.
+
 - Opens with a concrete scene, fact, historical moment, or rhetorical question — not an abstract thesis
 - Sometimes opens with a personal anchor: a family member or someone with direct proximity to the problem, then scales outward to the systemic claim
 - Scales from micro to macro deliberately: one person → one organization → global institutions, to earn the systemic claim before making it
@@ -138,6 +157,12 @@ all." Each rung changes the nature of the argument.
 ---
 
 ## Tone Markers
+
+The "Avoids" list is absolute — those rules apply to every sentence. The "Uses" 
+list is a palette: these are phrasings and moves Dante reaches for, not quotas 
+to fill. Reusing his exact signature lines ("Full stop.", "So I will.") across 
+multiple pieces will make the writing feel canned; treat them as examples of a 
+register, not stock phrases to insert.
 
 **Uses:**
 - "Full stop." as a period on an argument
@@ -184,6 +209,9 @@ all." Each rung changes the nature of the argument.
 
 ## Example Sentences That Sound Like Dante
 
+Study these for rhythm and register — do not recycle them. They show what his 
+sentences feel like, not what future sentences should say.
+
 - "The Industrial Revolution did not improve the quality of goods. It increased the quantity of them."
 - "None of these companies were run by idiots. They made perfectly logical decisions to protect existing revenue."
 - "History may not repeat, but human nature certainly does."
@@ -224,24 +252,39 @@ all." Each rung changes the nature of the argument.
 
 ## How to Use This Voice
 
-When writing for Dante:
-1. Start with a concrete anchor — a story, a number, a historical moment, or a rhetorical question that will close the piece. If the topic has personal proximity, open with it before broadening.
-2. If you have real examples, list them early as bullets before explaining the pattern
-3. Introduce your central analogy or framework early
-4. Commit to the thesis explicitly and early: "I believe that the answer is X."
-5. Build the "obvious" interpretation of the facts
-6. Defuse the reader's anticipated eye-roll before they have it
-7. Flip it — show why the conventional read is wrong or incomplete
-8. Use short sentences — sometimes single-sentence paragraphs — to land key points
-9. Name the threshold: show when acceptable friction becomes systemic failure. If the problem has multiple severity levels, name each rung explicitly.
-10. Include a Steel Man section for the strongest counterargument — then respond to it honestly. If a full Steel Man doesn't fit, at minimum name the existing incumbents and explain exactly why they fall short.
-11. Re-anchor the core problem mid-piece with a simple two-line restatement
-11a. If you enumerate problems, number them as questions the reader would ask, then synthesize them into one root disease — the enumeration is never the ending
-11b. If an adjacent company has solved the neighboring problem, credit it honestly, then show why the target problem is its inverse
-12. Before making a forward-looking claim, ground it in real-world evidence that already exists ("already proven its efficacy")
-13. End with something that connects back to the opening and points forward, ideally in two short sentences — often validating the original vision or answering the opening question. Pieces with a community dimension can close with a direct ask.
-14. Read it back — if it sounds like a consultant wrote it, rewrite it
-15. Never use em dashes. Replace them with periods, colons, or restructured sentences.
+The priority is sounding like Dante, not structuring like him. Style first, 
+moves second, and only the moves the piece actually needs.
+
+**Always (the style — non-negotiable in every piece):**
+- Write conversationally about serious ideas: smart person explaining something to another smart person over coffee
+- Commit to positions. No hedging, no "it could be argued," no passive voice
+- Use longer sentences to build context, then land key points with short ones — sometimes as their own paragraph
+- Ground abstract claims in specifics: real numbers, real companies, real people
+- Never use em dashes. Replace them with periods, colons, or restructured sentences (a spaced hyphen is acceptable sparingly).
+- No "it's not just X, it's Y" constructions
+- Read it back: if it sounds like a consultant wrote it, rewrite it. If it sounds like it's imitating Dante's previous essays, rewrite it too.
+
+**Toolbox (pick the 2-3 the content calls for — never all of them):**
+- Concrete anchor opening: a story, number, historical moment, or rhetorical question that can bookend the close. If the topic has personal proximity, open there.
+- Historical analogy as proof, not decoration
+- Central metaphor introduced early, returned to throughout, escalating with the stakes
+- Early bullet list of real examples before explaining the pattern
+- Explicit early thesis: "I believe that the answer is X."
+- The reversal: build the obvious interpretation, then flip it
+- Defuse the reader's anticipated eye-roll before they have it
+- Name the threshold where acceptable friction becomes systemic failure; if the problem has severity rungs, name each one
+- Steel Man the strongest counterargument, or at minimum credit incumbents and show exactly where they fall short
+- Enumerate problems as reader questions, then synthesize them into one root disease
+- Inverse analysis: credit an adjacent success honestly, then show the target problem is its inverse
+- Split a conflation the industry treats as one problem
+- Name the quiet bet everyone is making but nobody would state out loud
+- Re-anchor the core problem mid-piece with a two-line restatement
+- Ground forward-looking claims in evidence that already exists
+- Close by connecting back to the opening — or with a direct ask, or a sequel tease
+
+**The test:** would Dante publish this? Not "does this use Dante's techniques" — 
+a piece can use none of the named moves and still be unmistakably his if the 
+voice is right. Repetition across pieces is the failure mode to guard against.
 
 ---
 
